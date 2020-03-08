@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html>
-  <head><h1>DesignKaroAnything</h1>
+  <head><h1>WISH YOU HAPPY ANNIVERSARY MOSI AOR MOSAJI :D :)</h1>
 
 <p>Desing.</p>
-  <a   href="https://rj1aditya.github.io/DesignKaroAnything/file.html">aaditya Hero h</a>
   </head>
   
   
@@ -13,9 +12,7 @@
 
  
 
-<img src="https://rj1aditya.github.io/DesignKaroAnything/IMG_20191028_084004.jpgf" alt="HTML5 Icon" width="128" height="128">
-<img src="https://rj1aditya.github.io/DesignKaroAnything/IMG_20191028_084004.jpg"  alt="HTML5 Icon" style="width:128px;height:128px;">
-
+<img src="https://rj1aditya.github.io/DesignKaroAnything/WhatsApp Image 2020-03-08 at 12.31.32 AM.jpeg" alt="HTML5 Icon" width="128" height="128">
 </body>
   
 
